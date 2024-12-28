@@ -597,8 +597,3 @@ print("Robot movements from GeoLINK nodes:", results)
 
 ---
 
-### Summary
-
-**GeoLINK** enhances the power of GEOLT by distributing tasks across nodes, making learning and optimization scalable and efficient. Each node processes specific information, shares results, and contributes to the system's overall performance. These examples demonstrate how GeoLINK nodes collaborate to solve complex problems in diverse applications.
-
-Feel free to use and adapt these examples for your projects! Let me know if you need further refinements or additional use cases.
